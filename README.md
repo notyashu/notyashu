@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Development Project**
 
-- 🌱 I’m currently learning **Python, JavaScript.**
+- 🌱 I’m currently learning **Python, Machine Learning.**
 
 - 📫 How to reach me **suryanshmehrotra110@gmail.com**
 
