@@ -14,8 +14,8 @@
 <p align="left">
 <a href="https://codepen.io/notyashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="notyashu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suryansh-mehrotra-b592ba250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryansh-mehrotra-b592ba250" height="30" width="40" /></a>
-<a href="https://fb.com/suryansh.mehrotra.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryansh.mehrotra.7" height="30" width="40" /></a>
-<a href="https://instagram.com/not.yashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.yashu" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/suryansh.mehrotra.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryansh.mehrotra.7" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/not.yashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.yashu" height="30" width="40" /></a> -->
 <a href="https://discord.gg/not.yashu#3203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="not.yashu#3203" height="30" width="40" /></a>
 </p>
 
