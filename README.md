@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notyashu&label=Profile%20views&color=0e75b6&style=flat" alt="notyashu" /> </p>
 
-- 🔭 I’m currently working on **Web Development Project**
+- 🔭 I’m currently working on **Desktop Application Development Project**
 
-- 🌱 I’m currently learning **Python, Machine Learning.**
+- 🌱 I’m currently learning **C#, Dot-Net.**
 
 - 📫 How to reach me **suryanshmehrotra110@gmail.com**
 
