@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Desktop Application Development Project**
 
-- 🌱 I’m currently learning **C#, Dot-Net.**
+- 🌱 I’m currently learning **C#, .Net, and ASP.NET.**
 
 - 📫 How to reach me **suryanshmehrotra110@gmail.com**
 
